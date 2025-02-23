@@ -1,0 +1,3 @@
+class akka_framework {
+
+}

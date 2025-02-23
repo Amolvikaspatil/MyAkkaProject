@@ -1,0 +1,1 @@
+class case_class
